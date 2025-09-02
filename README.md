@@ -1,10 +1,11 @@
 # 📈 Mutual Fund Forecasting using LSTM and NeuralProphet  
 
 ## 📝 Project Description  
-This project focuses on **forecasting Net Asset Value (NAV) prices of mutual funds** using two advanced time-series models: **LSTM (Long Short-Term Memory)** and **NeuralProphet**.  
+This project focuses on **forecasting Net Asset Value (NAV) prices of mid-cap mutual funds** using two advanced time-series models: **LSTM (Long Short-Term Memory)** and **NeuralProphet**.  
 The goal is to **compare the performance of both models** and analyze their effectiveness in predicting future NAV trends, helping investors and analysts make better decisions.  
 
-The project uses **historical NAV data** of five mutual funds:  
+The mutual funds were **selected based on CRISIL ratings** to ensure reliability and performance benchmarking.  
+
 - Nippon India  
 - HDFC  
 - Invesco  
