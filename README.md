@@ -1,5 +1,3 @@
-# Mutual-Funds-Forecasting-using-LSTM-and-NeuralProphet
-
 # 📈 Mutual Fund Forecasting using LSTM and NeuralProphet  
 
 ## 📝 Project Description  
