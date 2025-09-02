@@ -6,6 +6,7 @@ The goal is to **compare the performance of both models** and analyze their effe
 
 The mutual funds were **selected based on CRISIL ratings** to ensure reliability and performance benchmarking.  
 
+The project uses **historical NAV data** of five mutual funds:  
 - Nippon India  
 - HDFC  
 - Invesco  
@@ -23,6 +24,7 @@ Models are trained, evaluated, and tested with metrics such as:
 ### 1. Data Collection  
 - Extracted **historical NAV prices** of selected mutual funds from **Yahoo Finance**.  
 - Time range selected to ensure enough historical data for training.  
+- Focused on **mid-cap mutual funds selected on CRISIL rating**.  
 
 ### 2. Data Preprocessing  
 - Handled **missing values**.  
