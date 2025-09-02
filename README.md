@@ -38,7 +38,7 @@ Models are trained, evaluated, and tested with metrics such as:
 - Captures **trend and seasonality** for time-series forecasting.  
 
 **NeuralProphet Architecture**  
-![NeuralProphet Architecture](images/np arch.png)  
+![NeuralProphet Architecture](images/np_arch.png)  
 
 #### 🔹 LSTM  
 - Sequential model with **multiple LSTM layers**.  
@@ -72,8 +72,8 @@ Comparison made to check **which model performs better**.
 Here are sample forecast results for **HDFC Mutual Fund NAV** using both models:  
 
 **NeuralProphet Prediction**  
-![NeuralProphet Result](images/np hdfc.png)  
+![NeuralProphet Result](images/np_hdfc.png)  
 
 **LSTM Prediction**  
-![LSTM Result](images/lstm hdfc.png)  
+![LSTM Result](images/hdfc_lstm.png)  
 
